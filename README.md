@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/evgeniia-kalinichenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evgeniia-kalinichenko" height="30" width="40" /></a>
 <a href="https://t.me/Evgeniia_Kalinichenko" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="evgeniia-kalinichenko" height="30" width="40" /></a>
+<a href="https://evgeniya.guseva2109@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="evgeniia-kalinichenko" height="29" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
