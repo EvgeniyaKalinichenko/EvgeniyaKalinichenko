@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Evgeniia 👋</h1>
 <h3 align="center">Frontend developer from Russia, live in Canada</h3>
 
-- 🌱 I’m currently learning **TypeScript**
 - 📫 How to reach me **evgeniya.guseva2109@gmail.com**
 
 <h3 align="left">Also connect with me:</h3>
