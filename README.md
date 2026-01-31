@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Evgeniia 👋</h1>
-<h3 align="center">Frontend developer from Russia</h3>
+<h3 align="center">Frontend developer from Canada</h3>
 
 
 - 📫 How to reach me **evgeniya.guseva2109@gmail.com**
